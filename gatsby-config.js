@@ -8,6 +8,7 @@ module.exports = {
   siteMetadata: {
     title: "Scott Logic - Blog"
   },
+  pathPrefix: "/blog-test",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
