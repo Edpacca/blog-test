@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-markdown-remark-frontmatter-slug-js",
-    "path": "/cicd/",
-    "result": {"data":{"markdownRemark":{"html":"<p>This is a very simple static page, built to help develop knowledge around the concept of 'continuous integration / contiunous development'.</p>\n<p>The input box below is used to suggest a new tagline for Scott Logic. This uses a js function called 'sanitiseTagline' which checks if the tagline meets certain standards. If the suggestion is valid it returns it in CAPS; if it doesn't meet the standard it logs an error.</p>\n<p>If you follow the docs provided you should be able to get this app deployed from your 'main' branch in github. The next step is to get your 'pipeline' set up in <a href=\"https://circleci.com/\">CircleCi</a>. The first time you do this and run the tests you'll notice that one of them fails. Fix it to get the pipeline passing.</p>","frontmatter":{"date":"April 29, 2022","slug":"/cicd","title":"CI/CD Training"}}},"pageContext":{"id":"64854548-ce9f-5f7c-8dc9-f801dae44b8e","frontmatter__slug":"/cicd","__params":{"frontmatter__slug":"cicd"}}},
-    "staticQueryHashes": []}
