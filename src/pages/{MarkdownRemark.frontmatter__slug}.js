@@ -1,13 +1,14 @@
 import React from "react"
+import Header from "../components/Header"
+import logo from '../assets/EP-logo.svg'
 import { graphql } from "gatsby"
-import ScottLogicHeader from "../components/ScottLogicHeader"
 
 export default function Template({ data }) {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   return (
     <div className='page flex-center'>
-    <ScottLogicHeader tagline='ALTOGETHER SMARTER'/>
+    <Header banner={logo}/>
       <div className='content'>
         <h1 className='header'>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>

@@ -37,8 +37,12 @@ a, a:visited {
 }
 
 .branding {
-    width: 50vmin;
+    width: 50vw;
     margin-bottom: 2em;
+}
+
+.banner {
+    height: 15vh;
 }
 
 .branding > .tagline {
@@ -51,7 +55,7 @@ a, a:visited {
 }
 
 .section {
-    width: 50vmin;
+    width: 60vmin;
 }
 
 .section > h1 {

@@ -1,12 +1,6 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
- */
-
 module.exports = {
   siteMetadata: {
-    title: "Scott Logic - Blog"
+    title: "Ed's test - Blog"
   },
   pathPrefix: "/blog-test",
   plugins: [
