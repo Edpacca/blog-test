@@ -1,6 +1,6 @@
 ---
 slug: "/post3"
-date: "2022-05-20"
+date: "2022-07-20"
 title: "Third Post"
 ---
 
