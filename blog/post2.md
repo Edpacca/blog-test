@@ -1,5 +1,5 @@
 ---
-slug: "/post2"
+slug: "blog/post2"
 date: "2022-05-20"
 title: "Second Post"
 ---
