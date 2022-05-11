@@ -6,7 +6,9 @@ import logo from '../assets/EP-logo.svg'
 import netlifyIdentity from 'netlify-identity-widget';
 import { graphql } from "gatsby"
 
-netlifyIdentity.init({});
+if (typeof window !== "undefined") {
+  netlifyIdentity.init({});
+}
 
 const Home = ({data: {allMarkdownRemark: { edges }}, }) => {
   
