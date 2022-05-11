@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
+    "netlify-identity-widget": "^1.9.2",
     "prettier": "^2.6.2"
   }
 }
