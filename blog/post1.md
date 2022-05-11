@@ -1,7 +1,7 @@
 ---
 title: First Post
 author: Eddie Pace
-date: 2022-04-29
+date: 2022-04-03T23:00:00.000Z
 thumbnail: https://static.cmostores.com/uploads/products/3/l/screwdriver-flathead-807.jpg?auto=compress&w=800&h=800
 readtime: 6
 slug: /blog/post1
