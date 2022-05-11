@@ -9,7 +9,7 @@ media_folder: "static/media"
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "src/blog"
+    folder: "blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
