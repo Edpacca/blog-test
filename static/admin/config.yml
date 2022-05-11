@@ -20,4 +20,4 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Read time (mins)", name: "readtime", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Slug", name: "slug", widget: "hidden", default: "{{year}}-{{month}}-{{day}}-{{slug}}"}
+      - {label: "Slug", name: "slug", widget: "hidden", default: "blog/{{year}}-{{month}}-{{day}}-{{slug}}"}
